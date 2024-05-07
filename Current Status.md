@@ -1,5 +1,5 @@
 # **Current Status**
-> Date Updated: 19-04-2024
+> Date Updated: 07-05-2024
 
 
 ## 1. Studies :notebook_with_decorative_cover:
@@ -22,7 +22,7 @@ I just failed oscp, BUT i'm going to try again some time in the next few months
   - Marraige
     - It's going haha!
   - Baby
-    - Born a few days ago
+    - Baby photoshoot soon, might be fun :)
   - Work
     - Working at Wendy's on weekends :)
 
