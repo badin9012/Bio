@@ -4,15 +4,11 @@
 
 ## 1. Studies :notebook_with_decorative_cover:
   - HTB
-    - SQL Injections
-  - THM
-    - Jr. Penetration Tester path
+    - CPTS 30%
   - OffSec
-    - OSCP
+    - OSCP 99%
   - University
-    - Term 1
-I just failed oscp, BUT i'm going to try again some time in the next few months
-
+    - Term 3
 
 ## 1. Interests :question: :confused:
   - Refer to Item 1 on list.
@@ -22,9 +18,8 @@ I just failed oscp, BUT i'm going to try again some time in the next few months
   - Marraige
     - It's going haha!
   - Baby
-    - Baby photoshoot soon, might be fun :)
+    - 99% @ 6 Months
   - Work
-    - Working at Wendy's on weekends :)
-
+    - Uh.
 
 > Life is pain, and i'm living mine to the fullest! - Badin9012
